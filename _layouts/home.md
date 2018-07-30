@@ -50,13 +50,13 @@
             <p>
               Sincerely,
               </br>
-              Mansha Kohli
+              Tapesh Nagarwal
               </br>
               President, 2017-2018
             </p>
           </div>
           <div class="col-md-4">
-            <img class="president" src="_assets/jpg/president.jpg"/>
+            <!--<img class="president" src="_assets/jpg/president.jpg"/>--> 
           </div>
         </div>
       </div>
